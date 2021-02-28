@@ -1,2 +1,2 @@
-# python_basic_exercises
-Basic exercises to practice python
+# python_exercises
+Exercises to practice python
